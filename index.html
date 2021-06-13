@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> TFT helper </title>
+</head>
+<body>
+<h1> Teamfight Tactics helper  </h1>
+<h3> By SeoYeon OH </h3>
+<div>
+<p>연결이 성공</p>
+<p>---------------------------------------<p>
+{% for i in data %}
+<p>챔피온: {{i.Name}}</p>
+<p>계열 : {{i.Traits[0]['Origins']}}</p>
+<p>직업 : {{i.Traits[0]['Classes']}}</p>
+<p>---------------</p>
+{% endfor %}
+</div>
+</body>
+</html>
