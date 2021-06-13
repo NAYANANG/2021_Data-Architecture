@@ -7,3 +7,4 @@
 
 ### 2. 웹 페이지 구현
 #### 상태 : 진행 중
+![tft](https://user-images.githubusercontent.com/59431387/121804039-53933000-cc7f-11eb-8e28-8c38f987d805.PNG)
